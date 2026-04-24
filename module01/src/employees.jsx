@@ -1,7 +1,8 @@
 const employees = [
   { id: 1, name: 'John Doe', ext: 1111, email: 'john@example.com', title: 'Developer' },
   { id: 2, name: 'Jane Smith', ext: 2222, email: 'jane@example.com', title: 'Manager' },
-  { id: 3, name: 'Bob Johnson', ext: 3333, email: 'bob@example.com', title: 'Designer' }
+  { id: 3, name: 'Bob Johnson', ext: 3333, email: 'bob@example.com', title: 'Designer' },
+  { id: 4, name: 'Alice Adams', ext: 4444, email: 'alice@example.com', title: 'Director' }
 ];
 
 const element = (

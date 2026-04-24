@@ -16,6 +16,12 @@ const employees = [{
   ext: 3333,
   email: 'bob@example.com',
   title: 'Designer'
+}, {
+  id: 4,
+  name: 'Alice Adams',
+  ext: 4444,
+  email: 'alice@example.com',
+  title: 'Director'
 }];
 const element = /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement("h1", null, "Employee List"), /*#__PURE__*/React.createElement("table", {
   border: "1"
